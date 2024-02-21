@@ -1,0 +1,108 @@
+<!-- This HTML file provides a simple example of a portfolio page. It contains a header, a few sections, and a few charts. -->
+<!-- It works with the three css files in this folder: example1.css, example2.css and example3.css. -->
+    <!-- The HTML file defines the structure of the page, and the CSS files define how it looks. -->
+    <!-- The CSS examples are all designed to work with this page. Try swapping them out on line 29 and see what happens. -->
+
+<!-- Take a look around and make your own copy to adapt for your own use. -->
+
+<!-- This is a comment -->
+<!-- Comments are not displayed in the browser -->
+<!-- They can be used to leave notes in the code -->
+
+<!-- TODO: Add more comments (e.g. what do head, body, h1 do; HTML is heirarchial; tags have an open an close; style/ids) -->
+<!-- TODO: Use simple charts: one should be very very simple -->
+
+<!DOCTYPE html>
+<html> 
+    <!-- HTML is heirarchial: tags like this define elements on the page. 
+        Each tag does something different. For example:
+            - The <html> tag defines the whole document.
+            - The <h1> tag defines a large heading
+            - The <p> tag defines a paragraph.
+        -->
+
+<head>    
+    <!-- The head tag links to resources our page needs and defines information about it. Tags in the <head> aren't displayed on the page. -->
+
+    <!-- This is a link to a stylesheet which contains rules about how each element on the page should be defined-->
+    <!-- Try swapping example1.css to another, and take a look at example1.css to see if you understand it-->
+    <link rel="stylesheet" type="text/css" href="s2_example1.css">
+    <title>My Portfolio</title> <!-- The title displayed in the browser tab, not on the page itself -->
+
+    <!-- This is a link to the vega-lite which we're using to make graphs -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+
+</head>
+
+<body> <!-- The body tag contains the elements that visitors to our page will see. -->
+    <h1 style="margin-bottom: 0px;"> <!-- we can also style elements directly in the HTML by setting the style= atrribute of a tag. -->
+        <!-- This is a header, it is the largest text on the page -->
+        An Example Portfolio
+    </h1>
+    <p style="margin-top: 0px; color: darkblue">
+        <!-- we're setting the margin to 0px so the header and authour name are close together -->
+        Your Name | <a href="https://www.linkedin.com/in/finnmcevoy/">LinkedIn</a> | <a
+            href="https://www.github.com/FM-ds">GitHub</a>
+    </p>
+    <h3>
+        This HTML file provides a simple template for a portfolio page. It contains a header, a few sections, and a few charts. This header can act as a summary for your page.
+    </h3>
+
+    <!-- We're organising the page into sections, with each section containing a chart, title and a description -->
+    <section>
+        <div class="chart-description">
+            <h2>Section 1: A basic chart</h2>
+            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
+                We've organised the page into sections, with each section containing a chart, title and a description. Here, we can describe the chart and give some context.
+                As a first example, we're using the basic chart from the previous session.
+            </p>
+        </div>
+        <figure id="Location1"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+    </section>
+
+    <section>
+        <div class="chart-description"> <!-- we are grouping the title and description together so we can style them together -->
+            <h2>Section 2: Another Chart</h2>
+            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
+                This is a more advanced chart. We'll cover charts like this in more detail later today. Don't worry if you don't understand it yet.
+                Feel free to replace both charts with your own examples.
+            </p>
+        </div>
+        <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+    </section>
+
+    <!-- Do you want to add more sections? -->
+        <!-- Try copying pasting the section above -->
+        <!-- You'll need to change the id of the figure "<figure id="Location3"... -->
+        <!-- ... and add a new variable for the graph spec in the script at the bottom of the page -->
+
+
+    <!-- This is a script, it's a way to run JavaScript code on the page -->
+    <script>
+        // This is a comment in JavaScript - it's a different language to HTML and CSS
+
+        var figure_1_spec = "s2_chart1.json"; // We're storing the URL of the graph we want to display in a variable
+        var figure_2_spec = "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/2/s2_chart2.json";
+
+        vegaEmbed('#Location1', figure_1_spec) // We're using the vegaEmbed function to put a graph in the element with id figure_1
+        vegaEmbed('#Location2', figure_2_spec)
+
+        // Do you want to add more graphs?
+        // try defining a new variable for figure_3_spec, adding VegaEmbed for Location3, and adding a new section in the HTML
+        // e.g. 
+        // var figure_3_spec = ...
+        // vegaEmbed('#Location3', figure_3_spec)
+
+
+
+    </script>
+
+
+
+
+</body>
+
+</html>
