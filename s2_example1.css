@@ -27,12 +27,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* We want the headings to be a little bigger than the paragraph text */
-h1 {
-  font-size: 3em;
+.big { /* This is the class we created in the HTML file, you can use it to style any element */
+  font-size: 2.5em;
 }
 
 h2 {
   font-size: 1.75em;
+}
+
+.small {
+  font-size: 1.25em;
 }
 
 /* Paragraph */

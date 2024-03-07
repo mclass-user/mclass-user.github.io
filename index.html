@@ -1,7 +1,7 @@
 <!-- This HTML file provides a simple example of a portfolio page. It contains a header, a few sections, and a few charts. -->
 <!-- It works with the three css files in this folder: example1.css, example2.css and example3.css. -->
-    <!-- The HTML file defines the structure of the page, and the CSS files define how it looks. -->
-    <!-- The CSS examples are all designed to work with this page. Try swapping them out on line 29 and see what happens. -->
+<!-- The HTML file defines the structure of the page, and the CSS files define how it looks. -->
+<!-- The CSS examples are all designed to work with this page. Try swapping them out on line 29 and see what happens. -->
 
 <!-- Take a look around and make your own copy to adapt for your own use. -->
 
@@ -9,17 +9,15 @@
 <!-- Comments are not displayed in the browser -->
 <!-- They can be used to leave notes in the code -->
 
-<!-- TODO: Add more comments (e.g. what do head, body, h1 do; HTML is heirarchial; tags have an open an close; style/ids) -->
-<!-- TODO: Use simple charts: one should be very very simple -->
-
 <!DOCTYPE html>
 <html> 
     <!-- HTML is heirarchial: tags like this define elements on the page. 
-        Each tag does something different. For example:
-            - The <html> tag defines the whole document.
-            - The <h1> tag defines a large heading
-            - The <p> tag defines a paragraph.
-        -->
+    Each tag does something different. For example:
+        - The <html> tag defines the whole document.
+        - The <h1> tag defines a large heading
+        - The <p> tag defines a paragraph
+        - Tags appear as an opening <div> and closing </div> pair
+    -->
 
 <head>    
     <!-- The head tag links to resources our page needs and defines information about it. Tags in the <head> aren't displayed on the page. -->
@@ -33,12 +31,11 @@
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-
-
 </head>
 
-<body> <!-- The body tag contains the elements that visitors to our page will see. -->
-    <h1 style="margin-bottom: 0px;"> <!-- we can also style elements directly in the HTML by setting the style= atrribute of a tag. -->
+<body> 
+<!-- The body tag contains the elements that visitors to our page will see. -->
+    <h1 class="big" style="margin-bottom: 0px;"> <!-- We have added a class to the header called "big" which we can use to style it in the CSS -->
         <!-- This is a header, it is the largest text on the page -->
         An Example Portfolio
     </h1>
@@ -47,7 +44,7 @@
         Your Name | <a href="https://www.linkedin.com/in/finnmcevoy/">LinkedIn</a> | <a
             href="https://www.github.com/FM-ds">GitHub</a>
     </p>
-    <h3>
+    <h3 class="small"> <!-- We have added a class to the header called "small" which we can use to style it in the CSS -->
         This HTML file provides a simple template for a portfolio page. It contains a header, a few sections, and a few charts. This header can act as a summary for your page.
     </h3>
 
@@ -96,13 +93,8 @@
         // var figure_3_spec = ...
         // vegaEmbed('#Location3', figure_3_spec)
 
-
-
     </script>
 
-
-
-
 </body>
-
+    
 </html>
