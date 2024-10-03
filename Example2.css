@@ -1,0 +1,29 @@
+/* Richard Davies */
+/* Data Science */
+
+/* This is a comment in CSS */
+
+/* This is a 
+multi line comment */
+
+/* CSS files can be used to access e.g. fonts */
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@900&display=swap');
+
+
+/* Format my paragraph */
+p {
+	font-size: 18px;
+	margin: 5px 5px;
+	line-height: 22.4px;
+	color: #323232;
+}
+
+/* Format my heading */
+h1 {
+	font-family: "Catamaran";
+	font-variant: small-caps;
+	font-size: 60px;
+	color: #320064;
+	font-weight: 900;
+	margin: 0px 0px 30px 0px;
+}
