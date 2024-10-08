@@ -1,0 +1,18 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Human Development Index ",
+    "subtitle": ["P21 Countries' HDI, most recent year", "Source: UN"]
+  },
+  "description": "A simple bar chart with embedded data.",
+  "data": {
+    "values": [{"Country":"Bangladesh","HDI":0.661},{"Country":"Brazil","HDI":0.754},{"Country":"China","HDI":0.768},{"Country":"DR Congo","HDI":0.479},{"Country":"Egypt","HDI":0.731},{"Country":"Ethiopia","HDI":0.498},{"Country":"Germany","HDI":0.942},{"Country":"India","HDI":0.633},{"Country":"Indonesia","HDI":0.705},{"Country":"Iran","HDI":0.774},{"Country":"Japan","HDI":0.925},{"Country":"Mexico","HDI":0.758},{"Country":"Nigeria","HDI":0.535},{"Country":"Pakistan","HDI":0.544},{"Country":"Philippines","HDI":0.699},{"Country":"Russia","HDI":0.829},{"Country":"Thailand","HDI":0.8},{"Country":"Turkey","HDI":0.838},{"Country":"United Kingdom","HDI":0.929},{"Country":"United States","HDI":0.921},{"Country":"Vietnam","HDI":0.703}]
+  },
+  "mark": "bar",
+  "encoding": {
+    "y": {"field": "Country", "type": "nominal", "sort":"-x", "title":null},
+    "x": {"field": "HDI", "type": "quantitative"}
+  },
+  "width": 300,
+  "height":400
+}
