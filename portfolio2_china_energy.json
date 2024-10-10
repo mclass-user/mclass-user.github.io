@@ -1,0 +1,55 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Electricity",
+      "anchor": "start",
+      "subtitle": "Output, GWh, | IEA via ECO-API",
+      "fontSize": 18,
+      "subtitleFontSize": 12,
+      "color": "#000000",
+      "subtitleColor": "#000000"
+    },
+    "height": 400,
+    "width": 400,
+    "autosize": {
+      "type": "fit",
+      "contains": "padding"
+    },
+    "background": "#ffffff",
+    "view": {
+      "fill": "#ffffff",
+      "strokeOpacity": 0
+    },
+    "data": {
+      "url": "https://api.economicsobservatory.com/chn/eGWh?vega",
+      "format": {
+        "type": "json"
+      }
+    },
+    "mark": {
+      "type": "line",
+      "color": "#1b00a0",
+      "strokeWidth": 2
+    },
+    "encoding": {
+      "x": {
+        "field": "date",
+        "type": "temporal",
+        "axis": {
+          "title": "",
+          "titleColor": "#122B39",
+          "grid": false
+        }
+      },
+      "y": {
+        "field": "value",
+        "type": "quantitative",
+        "axis": {
+          "title": "",
+          "titleColor": "#122B39",
+          "grid": false
+        }
+      }
+    }
+  }
+  
