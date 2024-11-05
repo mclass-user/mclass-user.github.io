@@ -1,0 +1,803 @@
+,name,isAirport,long,lat,country,town,guiness_price
+124,The Five Quarter,False,-1.332725,54.758237,England,Peterlee,2.59
+601,The Church House,False,-1.345412,53.502186,England,Wath-upon-Dearne,2.59
+777,The Union Rooms,False,-1.628588,53.712637,England,Batley,2.59
+753,The Blue Bell,False,-1.354261,53.613552,England,Pontefract,2.63
+30,The Pontlottyn,False,-3.134537,51.729839,Wales,Abertillery,2.63
+127,The Horse Shoe Inn,False,-1.7431,54.715016,England,Crook,2.63
+125,The Grand Electric Hall,False,-1.600239,54.699619,England,Spennymoor,2.63
+390,The Regal Moon,False,-2.156811,53.617305,England,Rochdale,2.63
+417,The Joseph Morton,False,-0.005115,53.365203,England,Louth,2.63
+180,The White Hart Hotel,False,-4.0031674,50.739146,England,Okehampton,2.63
+266,The Bull's Head Hotel,False,-2.399606,53.524026,England,Manchester,2.63
+604,The Horseshoe,False,-1.398634,53.522573,England,Wombwell,2.63
+677,The Sir William de Wessyngton,False,-1.522992,54.912658,England,Washington,2.63
+248,The Central Hotel,False,-3.039094,53.212225,Wales,Shotton,2.63
+670,The Harry Clasper,False,-1.673357,54.945865,England,Whickham,2.63
+483,The Limes,False,0.848525,52.828667,England,Fakenham,2.63
+128,The Stanley Jefferson,False,-1.673088,54.665303,England,Bishop Auckland,2.63
+567,The Captain Noel Newton,False,-0.731175,52.670094,England,Oakham,2.63
+521,The Forum,False,-2.101042,54.971866,England,Hexham,2.63
+766,The Livery Rooms,False,-1.909999,53.868726,England,Keighley,2.63
+513,The Earl of Dalkeith,False,-0.725818,52.399386,England,Kettering,2.63
+204,The Cross Keys,False,-0.433352,53.84292,England,Beverley,2.63
+169,The Queen's Head Hotel,False,-4.146774,50.549681,England,Tavistock,2.63
+792,The Savoy,False,-1.782671,51.56001,England,Swindon,2.63
+794,The Sir Daniel Arms,False,-1.787637,51.562324,England,Swindon,2.63
+600,The Bluecoat,False,-1.354911,53.428856,England,Rotherham,2.63
+638,The Thomas Sheraton,False,-1.312906,54.561391,England,Stockton-on-Tees,2.63
+680,The William Jameson,False,-1.381052,54.904626,England,Sunderland,2.63
+109,The Coinage Hall,False,-5.275214,50.100822,England,Helston,2.84
+460,The Prense Well,False,-3.09928384271061,53.3276802977042,England,Heswall,2.95
+450,The Clairville,False,-3.047125,53.419728,England,Wallasey,2.95
+447,The Brass Balance,False,-3.018088,53.392383,England,Birkenhead,2.95
+142,The Miles Thompson,False,-2.748549,54.326752,England,Kendal,2.95
+451,The Dee Hotel,False,-3.182447,53.372818,England,West Kirby,2.95
+90,The Penny Black,False,-2.508536,53.262202,England,Northwich,2.95
+445,Hoylake Lights,False,-3.177064,53.392477,England,Hoylake,2.95
+97,The Wheatsheaf,False,-2.923208,53.282852,England,Ellesmere Port,2.95
+414,The Blue Bell Inn,False,-0.654238,53.590434,England,Scunthorpe,2.99
+504,The Plimsoll Line,False,-1.060479,54.617258,England,Redcar,2.99
+200,City and County,False,-0.871177,53.70353,England,Goole,2.99
+123,The Company Row,False,-1.830787,54.852039,England,Consett,2.99
+676,The Ritz,False,-1.536996,54.9905,England,Wallsend ,3.11
+146,The Sussex,False,-3.491623,53.321051,Wales,Rhyl,3.11
+684,The Sir Samuel Romilly,False,-3.284393,51.398496,Wales,Barry,3.11
+201,Sanctuary Bar,False,-0.365773,53.771874,England,Kingston Upon Hull,3.11
+140,The Furness Railway,False,-3.227954,54.115776,England,Barrow-in-Furness,3.11
+202,The Admiral of the Humber,False,-0.343746,53.743197,England,Kingston Upon Hull,3.11
+774,The Six Chimneys,False,-1.494346,53.682919,England,Wakefield,3.11
+206,The Three John Scotts,False,-0.332747,53.743981,England,Kingston Upon Hull,3.11
+621,The Arnold Machin,False,-2.225344,53.012193,England,Newcastle-under-Lyme,3.11
+699,St. Matthew's Hall,False,-1.979812,52.585188,England,Walsall,3.11
+148,The Babington Arms,False,-1.476332,52.919155,England,Derby,3.15
+440,The Sedge Lynn,False,-2.27864,53.444237,England,Chorlton-cum-Hardy,3.15
+442,The Tim Bobbin,False,-2.357196,53.448212,England,Urmston,3.15
+471,The Bell Hanger,False,-2.67366,51.642586,Wales,Chepstow,3.15
+139,The Dog Beck,False,-2.750304,54.661841,England,Penrith,3.15
+136,The Whispering Moon,False,-0.149607,51.360066,England,Wallington,3.15
+135,The Sir Julian Huxley,False,-0.062519,51.343446,England,Selsdon,3.15
+468,Y Dic Penderyn,False,-3.378139,51.747381,Wales,Merthyr Tydfil,3.15
+436,The Harbord Harbord,False,-2.198051,53.550159,England,Middleton,3.15
+473,The Kings Head ,False,-2.715684,51.811804,Wales,Monmouth,3.15
+121,The Spirit Merchant,False,-5.701269,54.594336,N Ireland,Newtownards,3.15
+120,The Central Bar,False,-5.806399,54.714593,N Ireland,Carrickfergus,3.15
+478,The Godfrey Morgan,False,-2.978427,51.589783,Wales,Newport,3.15
+479,The John Wallace Linton,False,-2.998056,51.588957,Wales,Newport,3.15
+495,The Carrick Stone,False,-3.987541,55.948697,Scotland,Glasgow,3.15
+499,The Crown Inn,False,-1.468513,54.009126,England,Knaresborough,3.15
+113,The King Doniert ,False,-4.464954,50.453967,England,Liskeard,3.15
+453,The Frank Hornby,False,-2.936744,53.515307,England,Liverpool,3.15
+152,The Red Lion,False,-1.407357,53.050784,England,Ripley,3.15
+515,The Red Well,False,-0.695287,52.301673,England,Wellingborough,3.15
+432,The Eccles Cross,False,-2.334663,53.483229,England,Eccles,3.15
+307,The Tilly Shilling,False,-0.756707,51.293438,England,Farnborough,3.15
+295,The Maidenhead Inn,False,-1.087566,51.262356,England,Basingstoke,3.15
+290,The Ivy House,False,-0.978074,51.146559,England,Alton,3.15
+279,The Rochester Castle,False,-0.073976,51.56096,England,Stoke Newington,3.15
+277,The Black Bull Inn,False,-4.12906,53.22437,Wales,Bangor,3.15
+271,The Up Steps Inn,False,-2.112833,53.542231,England,Oldham,3.15
+260,The Lord John,False,-2.218125,51.744793,England,Stroud,3.15
+315,The Colley Rowe Inn,False,0.160898,51.59888,England,Collier Row,3.15
+250,The Market Cross,False,-3.222796,53.274202,Wales,Holywell,3.15
+247,The Robert Nairn,False,-3.158047,56.111982,Scotland,Kirkcaldy,3.15
+199,The David Macbeth Moir,False,-3.057992,55.943611,Scotland,Musselburgh,3.15
+203,The Benjamin Fawcett,False,-0.440338,54.006331,England,Driffield,3.15
+243,The Carron Works,False,-3.783067,56.000127,Scotland,Falkirk,3.15
+241,The William Aylmer,False,0.092027,51.771172,England,Harlow,3.15
+240,The Temeraire,False,0.239106,52.022184,England,Saffron Walden,3.15
+226,The New Crown,False,-0.130591,51.633315,England,Southgate,3.15
+249,The Gold Cape,False,-3.141215,53.166431,Wales,Mold,3.15
+434,The Ford Madox Brown,False,-2.226697,53.458084,England,Manchester,3.15
+318,The Kings Fee,False,-2.710562,52.058302,England,Hereford,3.15
+333,The Three Magnets,False,-0.226942,51.979248,England,Letchworth,3.15
+427,The Yarborough Hotel,False,-0.087395,53.563934,England,Grimsby,3.15
+419,The Packhorse Inn,False,-0.410512,52.999841,England,Sleaford,3.15
+157,Waggon and Horses,False,-1.390282,53.097116,England,Alfreton,3.15
+418,The Moon Under Water,False,-0.024404,52.976692,England,Boston,3.15
+411,The London & Rye,False,-0.018347,51.447015,England,Catford,3.15
+404,The Lord Keeper of the Great Seal,False,-1.08408,52.600848,England,Oadby,3.15
+397,The Twelve Tellers,False,-2.696868,53.758722,England,Preston,3.15
+319,The Mail Rooms,False,-2.582069,51.91382,England,Ross-on-Wye,3.15
+392,The Sir Richard Owen,False,-2.80032,54.046889,England,Lancaster,3.15
+382,The Grey Friar,False,-2.702992,53.760301,England,Preston,3.15
+362,The Robert Pocock,False,0.369227,51.44233,England,Gravesend,3.15
+354,The Golden Hope,False,0.732164,51.340422,England,Sittingbourne,3.15
+352,The Eight Bells,False,1.312592,51.125805,England,Dover,3.15
+350,The Belle and Lion,False,0.760292,51.440797,England,Sheerness,3.15
+344,The James Watt,False,-4.753627,55.946808,Scotland,Greenock,3.15
+338,The Botwell Inn,False,-0.416617,51.508134,England,Hayes,3.15
+385,The Leyland Lion,False,-2.692648,53.695493,England,Leyland,3.15
+395,The Thomas Drummond,False,-3.011607,53.921906,England,Fleetwood,3.15
+219,The Foot of the Walk,False,-3.171012,55.970788,Scotland,Leith,3.15
+627,The Lord Burton,False,-1.629501,52.802992,England,Burton upon Trent,3.15
+636,The Half Moon Inn,False,-1.294102,54.607379,England,Billingham,3.15
+19,The Moon and Spoon,False,-0.595761,51.509569,England,Slough,3.15
+745,The Ounce & Ivy Bush,False,-0.008773,51.126476,England,East Grinstead,3.15
+747,The Six Gold Martlets,False,-0.131755,50.956203,England,Burgess Hill,3.15
+56,The Sirhowy,False,-3.195527,51.669323,Wales,Blackwood,3.15
+509,The Three Tuns,False,-1.341393,54.232583,England,Thirsk,3.15
+756,The Broken Bridge,False,-1.309399,53.692556,England,Pontefract,3.15
+607,The Queens Hotel,False,-1.196687,53.423301,England,Rotherham,3.15
+759,The Commercial Inn,False,-1.907801,53.709538,England,Sowerby Bridge,3.15
+63,The Swan & Angel,False,-0.0749562,52.3232215,England,St Ives,3.15
+64,The Weeping Ash,False,-0.269142,52.22873,England,St Neots,3.15
+596,The John Fairweather,False,-4.165774,55.818727,Scotland,Cambuslang,3.15
+595,The Hay Stook,False,-4.1767691,55.7610994,Scotland,East Kilbride,3.15
+594,An Ruadh-Ghleann,False,-4.217484,55.828222,Scotland,Rutherglen,3.15
+592,The West Kirk,False,-4.633937,55.462916,Scotland,Ayr,3.15
+637,The Highland Laddie,False,-1.310721,54.587781,England,Norton,3.15
+639,Grover & Allen,False,0.730154,52.040777,England,Sudbury,3.15
+644,The Joseph Conrad,False,1.750985,52.474293,England,Lowestoft,3.15
+649,The Edmund Tylney,False,-0.327456,51.295354,England,Leatherhead,3.15
+28,The Olympia,False,-3.245151,51.771165,Wales,Tredegar,3.15
+700,The Arthur Robertson,False,-1.902602,52.516921,England,Birmingham,3.15
+32,J.J. Moon's,False,-0.292811,51.553589,England,Wembley,3.15
+33,The Sawyer's Arms,False,-3.659949,51.608429,Wales,Maesteg,3.15
+690,The Bear & Ragged Staff,False,-1.471069,52.479607,England,Bedworth,3.15
+685,The King's Ford,False,-0.017282,51.616348,England,Chingford,3.15
+718,The Elizabeth of York,False,-1.887532,52.446314,England,Moseley,3.15
+583,The Iron Duke,False,-3.227553,50.978756,England,Wellington,3.15
+678,The Tilley Stone,False,-1.602189,54.961737,England,Gateshead,3.15
+665,The Half Moon,False,-0.045316,51.522195,England,Mile End,3.15
+661,The Potters Wheel,False,-3.949492,51.619245,Wales,Swansea,3.15
+721,The Full Moon,False,-2.084455,52.509425,England,Dudley,3.15
+659,The Bank Statement,False,-3.940487,51.619375,Wales,Swansea,3.15
+22,The New Cross Turnpike ,False,0.103909,51.462947,England,Welling,3.15
+743,The Jubilee Oak,False,-0.190369,51.115383,England,Crawley,3.15
+744,The Lynd Cross,False,-0.332293,51.063625,England,Horsham,3.15
+671,The High Main,False,-1.584256,54.97674,England,Newcastle upon Tyne,3.15
+711,The Chequers Inn,False,-2.143758,52.454977,England,Stourbridge,3.15
+580,The Cerdic,False,-2.96261,50.873112,England,Chard,3.15
+575,The Wilfred Owen,False,-3.056445,52.859546,England,Oswestry,3.15
+92,The Queens Arms,False,-2.530204,53.191311,England,Winsford,3.15
+798,The Foley Arms Hotel,False,-2.330037,52.112482,England,Great Malvern,3.15
+93,The Society Rooms,False,-2.124356,53.256458,England,Macclesfield,3.15
+538,The Regent,False,-1.243889,53.099422,England,Kirkby-in-Ashfield,3.15
+536,The Picture House,False,-1.261325,53.126174,England,Sutton-in-Ashfield,3.15
+533,The Lady Chatterley,False,-1.304965,53.017956,England,Nottingham,3.15
+98,The Wilfred Wood,False,-2.120471,53.379446,England,Stockport,3.15
+540,The Samuel Hall,False,-1.146399,52.981368,England,Nottingham,3.15
+531,The Gooseberry Bush,False,-1.15578,52.959685,England,Nottingham,3.15
+2,The Cross Keys,False,-1.779061,57.505782,Scotland,Peterhead,3.15
+522,The Red Lion,False,-1.600477,55.131345,England,Bedlington,3.15
+799,The Old Swanne Inne,False,-1.946456,52.094272,England,Evesham,3.15
+517,The Saracens Head Inn,False,-1.164515,52.257668,England,Daventry,3.15
+224,The Alfred Herring,False,-0.10697,51.619343,England,Palmers Green,3.15
+106,The Bobbing John,False,-3.791251,56.11587,Scotland,Alloa,3.15
+514,The Railway Inn,False,-0.599042,52.293072,England,Rushden,3.15
+524,The Wallaw,False,-1.508041,55.126572,England,Blyth,3.15
+576,The William Withering,False,-2.517038,52.700595,England,Wellington,3.15
+6,The Henry Bell,False,-4.737553,56.004058,Scotland,Helensburgh,3.15
+8,The Moon Under Water,False,-0.251046,51.587353,England,Colindale,3.15
+75,The Ivor Davies,False,-3.200316,51.48133,Wales,Cardiff,3.15
+573,The Jewel of the Severn,False,-2.420223,52.536721,England,Bridgnorth,3.15
+572,The Hippodrome,False,-2.485833,52.906125,England,Market Drayton,3.15
+78,The York Palace,False,-4.163244,51.680907,Wales,Llanelli,3.15
+79,Yr Hen Dderwen,False,-4.304996,51.857052,Wales,Carmarthen,3.15
+569,The Bourtree,False,-2.783623,55.425266,Scotland,Hawick,3.15
+568,Hunters Hall,False,-2.811066,55.61789,Scotland,Galashiels,3.15
+565,Yr Ieuan Ap Iago,False,-3.446322,51.712742,Wales,Aberdare,3.15
+84,The Counting House,False,-2.214671,53.163783,England,Congleton,3.15
+763,The Golden Beam,False,-1.57093120497953,53.8169279042559,England,Leeds,3.15
+85,The Ferry Boat,False,-2.731586,53.34215,England,Runcorn,3.15
+560,The Great Spoon of Ilford,False,0.06883,51.561882,England,Ilford,3.15
+556,The Black Boy,False,-3.316007,52.516404,Wales,Newtown,3.15
+549,The Narrows,False,-1.283443,51.670176,England,Abingdon-on-Thames,3.15
+547,The Exchange,False,-1.33877,52.060556,England,Banbury,3.15
+765,The Lister Arms,False,-1.825689,53.925738,England,Ilkley,3.15
+785,The Albany Palace,False,-2.206405,51.320004,England,Trowbridge,3.15
+710,The Charlie Hall,False,-1.83997,52.524249,England,Birmingham,3.15
+270,The Spinning Mule,False,-2.42683,53.577473,England,Bolton,3.23
+508,The Swatters Carr,False,-1.238653,54.569864,England,Middlesbrough,3.23
+681,The Wouldhave,False,-1.433382,54.999935,England,South Shields,3.23
+485,The Red Lion,False,0.750489,52.413429,England,Thetford,3.23
+523,The Rohan Kanhai,False,-1.567594,55.183414,England,Ashington,3.23
+126,The Hat and Feathers,False,-1.333609,54.837059,England,Seaham ,3.23
+129,The Tanners Hall,False,-1.557235,54.52558,England,Darlington,3.23
+130,The Ward Jackson,False,-1.208621,54.685666,England,Hartlepool,3.23
+131,The Wicket Gate,False,-1.573391,54.852139,England,Chester-le-Street,3.23
+132,The William Stead,False,-1.552607,54.525575,England,Darlington,3.23
+703,The Bellwether,False,-2.018997,52.553248,England,Wednesbury,3.23
+603,The Gate House,False,-1.134002,53.522466,England,Doncaster,3.23
+632,The Reginald Mitchell,False,-2.174163,53.02532,England,Hanley,3.23
+634,The Wheatsheaf,False,-2.185283,53.004065,England,Stoke-on-Trent,3.23
+379,The Commercial Hotel,False,-2.363892,53.752709,England,Accrington,3.23
+378,The Boot Inn,False,-2.240758,53.788985,England,Burnley,3.23
+358,The Mechanical Elephant,False,1.377825,51.386708,England,Margate,3.23
+667,The Cooper Rose,False,-1.387901,54.903408,England,Sunderland,3.23
+609,The Red Lion,False,-1.132554,53.523957,England,Doncaster,3.23
+801,The Elihu Yale,False,-2.997051,53.047074,Wales,Wrexham,3.23
+399,The Wallace Hartley,False,-2.170443,53.856709,England,Colne,3.35
+454,The Glass House,False,-2.735861,53.451334,England,St Helens,3.35
+381,The Eric Bartholomew,False,-2.866207,54.072496,England,Morecambe,3.35
+400,The Amber Rooms,False,-1.209355,52.77373,England,Loughborough,3.35
+672,The Job Bulman,False,-1.61937,55.004768,England,Newcastle upon Tyne,3.39
+507,The Ralph Fitz Randal,False,-1.736716,54.404675,England,Richmond,3.45
+663,The Thomas Botfield,False,-2.445659,52.675617,England,Telford,3.45
+488,The Whalebone,False,0.373821,52.60295,England,Downham Market,3.45
+487,The Troll Cart,False,1.729446,52.607216,England,Great Yarmouth,3.45
+486,The Romany Rye,False,0.939354,52.680983,England,Dereham,3.45
+116,The Towan Blystra,False,-5.077438,50.414392,England,Newquay,3.45
+664,The John Fielding,False,-3.020568,51.655404,Wales,Cwmbran,3.45
+117,The Tremenheere,False,-5.536728,50.118594,England,Penzance,3.45
+668,The Fire Station,False,-1.445076,55.042515,England,Whitley Bay,3.45
+42,The Van Dyck Forum,False,-2.530289,51.479661,England,Bristol,3.45
+480,Globe Hotel,False,0.393692,52.75578,England,King’s Lynn,3.45
+118,Try Dowr,False,-5.050308,50.262189,England,Truro,3.45
+476,The Lord Caradoc,False,-3.782071,51.59438,Wales,Port Talbot,3.45
+475,The David Protheroe,False,-3.806338,51.661907,Wales,Neath,3.45
+474,The Muckle Cross,False,-3.312467,57.648905,Scotland,Elgin,3.45
+41,The Staple Hill Oak,False,-2.510118,51.481194,England,Bristol,3.45
+472,The Coliseum,False,-3.019214,51.823226,Wales,Abergavenny,3.45
+39,The Kingswood Colliers,False,-2.506893,51.462386,England,Bristol,3.45
+679,The Wild Boar,False,-1.469199,54.843412,England,Houghton-le-Spring,3.45
+38,The Jolly Sailor,False,-2.517164,51.449194,England,Bristol,3.45
+490,The William Adams,False,1.728201,52.580488,England,Great Yarmouth,3.45
+491,The Auld Brig,False,-4.672991,55.612441,Scotland,Irvine,3.45
+492,The Paddle Steamer,False,-4.87005,55.7952,Scotland,Largs,3.45
+493,The Salt Cot,False,-4.789511,55.633765,Scotland,Saltcoats,3.45
+656,The Sun,False,-0.167925,51.241219,England,Redhill,3.45
+108,The Picture House,False,-3.727801,53.296712,Wales,Colwyn Bay,3.45
+512,The Cordwainer,False,-0.892703,52.237947,England,Northampton,3.45
+657,The Moon on the Hill,False,-0.193255,51.361894,England,Sutton,3.45
+510,The Unicorn Hotel,False,-1.523206,54.136018,England,Ripon,3.45
+110,The Green Parrot ,False,-5.156051,50.344363,England,Perranporth,3.45
+111,The Hain Line,False,-5.480804,50.211435,England,St Ives,3.45
+658,The Nonsuch Inn,False,-0.226121,51.372466,England,North Cheam,3.45
+660,The Mardy Inn,False,-4.037645,51.669,Wales,Swansea,3.45
+46,The Moon & Stars,False,-0.050885,51.412746,England,Penge,3.45
+112,The John Francis Basset,False,-5.301041,50.213624,England,Camborne,3.45
+503,The Lord Rosebery,False,-0.404235,54.280924,England,Scarborough,3.45
+502,The Ironstone Miner,False,-1.0566161,54.5345119,England,Guisborough,3.45
+501,The Giant Bellflower,False,-1.072167,53.783565,England,Selby,3.45
+500,The Devonshire Inn,False,-2.015596,53.960359,England,Skipton,3.45
+114,The Packet Station,False,-5.073068,50.154786,England,Falmouth,3.45
+498,The Buck Inn,False,-1.43701,54.34155,England,Northallerton,3.45
+662,The Red Lion Inn,False,-3.922654,51.668635,Wales,Swansea,3.45
+496,The Wishaw Malt,False,-3.91806,55.77417,Scotland,Wishaw,3.45
+115,The Rann Wartha,False,-4.793412,50.338748,England,St Austell,3.45
+494,The Brandon Works,False,-3.990256,55.791623,Scotland,Motherwell,3.45
+134,The Moon Under Water,False,-0.12138,51.407097,England,Norbury,3.45
+683,The Bears Head,False,-3.175713,51.43944,Wales,Penarth,3.45
+466,The Watch Maker,False,-2.802256,53.429627,England,Prescot,3.45
+465,The Thomas Frost,False,-2.97267,53.435863,England,Liverpool,3.45
+435,The Great Central,False,-2.219303,53.44101,England,Manchester,3.45
+153,The Sir Nigel Gresley,False,-1.557805,52.774308,England,Swadlincote,3.45
+433,The Edwin Waugh,False,-2.22136,53.593732,England,Heywood,3.45
+154,The Smithy Fold,False,-1.948946,53.442653,England,Glossop,3.45
+431,The Bishop Blaize,False,-2.289116,53.461185,England,Stretford,3.45
+698,Abraham Darby,False,-2.111407,52.479426,England,Brierley Hill,3.45
+31,J.J. Moon's,False,-0.279922,51.584673,England,Kingsbury,3.45
+29,The Picture House,False,-3.207618,51.77965,Wales,Ebbw Vale,3.45
+155,The Standing Order,False,-1.478165,52.924163,England,Derby,3.45
+426,The White Horse,False,-0.488763,53.5524,England,Brigg,3.45
+425,The Tollemache Inn,False,-0.639824,52.909841,England,Grantham,3.45
+424,The Sweyn Forkbeard,False,-0.777033,53.398454,England,Gainsborough,3.45
+423,The Stamford Post,False,-0.480789,52.651148,England,Stamford,3.45
+421,The Red Lion,False,0.336307,53.143959,England,Skegness,3.45
+420,The Raymond Mays,False,-0.37678,52.76957,England,Bourne ,3.45
+156,The Wye Bridge House,False,-1.905302,53.259412,England,Buxton,3.45
+158,George's Meeting House,False,-3.530044,50.720565,England,Exeter,3.45
+620,The Acorn Inn,False,-1.825945,52.683733,England,Lichfield,3.45
+416,The Ivy Wall,False,-0.151381,52.788547,England,Spalding,3.45
+415,The Coliseum Picture Theatre,False,-0.031085,53.560768,England,Cleethorpes,3.45
+160,The Britannia Inn,False,-4.1573,50.385633,England,Plymouth,3.45
+151,The Portland Hotel,False,-1.431165,53.235196,England,Chesterfield,3.45
+654,The Oxted Inn,False,-0.004753,51.257473,England,Oxted,3.45
+696,The Captain James Lang,False,-4.571429,55.943228,Scotland,Dumbarton,3.45
+150,The Pillar of Rock,False,-1.293819,53.229884,England,Chesterfield,3.45
+35,Robert Fitzharding,False,-2.600943,51.441129,England,Bristol,3.45
+462,The Raven,False,-2.958666,53.463796,England,Liverpool,3.45
+461,The Queen's Picture House,False,-3.027309,53.474184,England,Liverpool,3.45
+137,The Bransty Arch,False,-3.587175,54.550938,England,Whitehaven,3.45
+686,The Walnut Tree,False,0.012879,51.56979,England,Leytonstone,3.45
+458,The Nine Arches,False,-2.643989,53.452255,England,Newton-le-Willows,3.45
+457,The Navigator,False,-2.905678,53.41513,England,Liverpool,3.45
+456,The Lime Kiln,False,-2.980277,53.40297,England,Liverpool,3.45
+687,J.J. Moon's,False,-0.168426,51.427847,England,Tooting,3.45
+141,The Henry Bessemer,False,-3.548045,54.643076,England,Workington,3.45
+34,The Wyndham Arms Hotel,False,-3.57927,51.506639,Wales,Bridgend,3.45
+143,The William Rufus,False,-2.931917,54.89132,England,Carlisle,3.45
+144,Woodrow Wilson,False,-2.930705,54.890756,England,Carlisle,3.45
+449,The Childwall Fiveways Hotel,False,-2.896656,53.39682,England,Liverpool,3.45
+691,The Benjamin Satchwell,False,-1.535581,52.289716,England,Royal Leamington Spa,3.45
+145,The Castle Hotel,False,-3.310398,53.114594,Wales,Ruthin,3.45
+446,The Barker's Brewery,False,-2.840059,53.413375,England,Liverpool,3.45
+147,Spa Lane Vaults,False,-1.424153,53.235225,England,Chesterfield,3.45
+692,The Felix Holt,False,-1.469525,52.523007,England,Nuneaton,3.45
+149,The Observatory,False,-1.308167,52.971521,England,Ilkeston,3.45
+694,The Rupert Brooke,False,-1.259349,52.37303,England,Rugby,3.45
+695,The Thomas Lloyd,False,-1.590252,52.28228,England,Warwick,3.45
+702,The Avion,False,-1.919698,52.603429,England,Aldridge,3.45
+516,The Samuel Lloyd,False,-0.70602,52.507544,England,Corby,3.45
+518,The Saxon Crown,False,-0.699317,52.487058,England,Corby,3.45
+593,Thorn's Farm,False,-2.41326,51.539258,England,Yate,3.45
+70,The Aneurin Bevan,False,-3.199854,51.507614,Wales,Cardiff,3.45
+591,The Prestwick Pioneer,False,-4.610786,55.499539,Scotland,Prestwick,3.45
+590,The William Dampier,False,-2.626269,50.941616,England,Yeovil,3.45
+589,The Reeds Arms,False,-2.998761,51.23429,England,Burnham-on-Sea,3.45
+588,The Quarter Jack,False,-2.649105,51.207049,England,Wells,3.45
+587,The Posset Cup,False,-2.765912,51.485909,England,Bristol,3.45
+586,The Perkin Warbeck,False,-3.099492,51.014715,England,Taunton,3.45
+585,The Lantokay,False,-2.74146,51.125835,England,Street,3.45
+631,The Poste of Stone,False,-2.148554,52.903487,England,Stone,3.45
+55,The Malcolm Uphill,False,-3.219794,51.57221,Wales,Caerphilly,3.45
+582,The Glassmaker,False,-2.758405,51.432151,England,Nailsea,3.45
+581,The Duke of Wellington,False,-3.479339,51.2053,England,Minehead,3.45
+72,The Ernest Willows,False,-3.165617,51.485684,Wales,Cardiff,3.45
+579,The Carnival Inn,False,-3.004078,51.127462,England,Bridgwater,3.45
+578,Palladium Electric,False,-2.4815218,51.2860806,England,Radstock,3.45
+577,Cabot Court Hotel,False,-2.982553,51.350518,England,Weston-super-Mare,3.45
+635,The Crossed Peels,False,-3.939151,56.118532,Scotland,Stirling,3.45
+574,The Shrewsbury Hotel,False,-2.757119,52.709482,England,Shrewsbury,3.45
+53,The White Hart,False,-0.809839,51.815398,England,Aylesbury,3.45
+633,The Wheatsheaf,False,-1.989753,52.986782,England,Cheadle,3.45
+630,The Plaza,False,-1.93489,52.757438,England,Rugeley,3.45
+629,The Picture House,False,-2.115915,52.804441,England,Stafford,3.45
+597,Sheffield Water Works Company,False,-1.472973,53.380267,England,Sheffield,3.45
+622,The Bole Bridge,False,-1.691544,52.63314,England,Tamworth,3.45
+623,The Bradley Green,False,-2.176331,53.115715,England,Biddulph,3.45
+624,The Green Dragon,False,-2.02696,53.106534,England,Leek,3.45
+616,The Kentish Drovers,False,-0.070012,51.473549,England,Peckham,3.45
+625,The Hedgeford Lodge,False,-2.000375,52.709197,England,Hednesford,3.45
+614,The Woodseats Palace,False,-1.478358,53.344149,England,Sheffield,3.45
+613,The Wagon & Horses,False,-1.465563,53.461684,England,Sheffield,3.45
+626,The Linford Arms,False,-2.032219,52.689474,England,Cannock,3.45
+611,The Sheaf Island,False,-1.481984,53.372833,England,Sheffield,3.45
+610,The Scarsdale Hundred,False,-1.349529,53.34399,England,Sheffield,3.45
+59,The Draper's Arms,False,-0.246505,52.572972,England,Peterborough,3.45
+608,The Rawson Spring,False,-1.500166,53.402014,England,Sheffield,3.45
+60,The George Hotel,False,-0.127433,52.556164,England,Peterborough,3.45
+606,The Old Market Hall,False,-1.287533,53.492769,England,Mexborough,3.45
+605,The Joseph Bramah,False,-1.481735,53.552901,England,Barnsley,3.45
+61,The Hippodrome,False,0.087332,52.5515,England,March,3.45
+602,The Francis Newton,False,-1.492159,53.376826,England,Sheffield,3.45
+65,The Wheatsheaf Inn,False,0.162965,52.663234,England,Wisbech,3.45
+628,The Old Swan,False,-1.863266,52.89796,England,Uttoxeter,3.45
+599,The Benjamin Huntsman,False,-1.47238,53.37997,England,Sheffield,3.45
+598,The Bankers Draft,False,-1.466473,53.383182,England,Sheffield,3.45
+571,Montgomery's Tower,False,-2.758646,52.709256,England,Shrewsbury,3.45
+570,The Cross Keys,False,-3.188605,55.652703,Scotland,Peebles,3.45
+80,The Gary Cooper,False,-0.521186,51.889702,England,Dunstable,3.45
+81,Yr Hen Orsaf,False,-4.081825,52.414089,Wales,Aberystwyth,3.45
+91,The Premier,False,-2.724383,53.3704,England,Widnes,3.45
+539,The Roebuck Inn,False,-1.152287,52.953001,England,Nottingham,3.45
+94,The Society Rooms,False,-2.057674,53.481281,England,Stalybridge,3.45
+537,The Pilgrim Oak,False,-1.202491,53.038053,England,Hucknall,3.45
+645,The Kings Head Hotel,False,1.563152,52.457558,England,Beccles,3.45
+535,The Liquorice Gardens,False,-1.123609,53.304274,England,Worksop,3.45
+534,The Last Post,False,-1.21682,52.926352,England,Beeston,3.45
+96,The Unicorn,False,-2.352027,53.38416,England,Altrincham,3.45
+532,The Joseph Else,False,-1.149721,52.95304,England,Nottingham,3.45
+646,The Willow Tree,False,0.999027,52.185492,England,Stowmarket,3.45
+530,The Free Man,False,-1.109232,52.966067,England,Nottingham,3.45
+529,The Ernehale,False,-1.130417,53.001748,England,Arnold,3.45
+528,The Dominie Cross,False,-0.939932,53.322392,England,Retford,3.45
+527,The Butter Cross,False,-0.951655,52.952653,England,Bingham,3.45
+526,The Admiral Sir John Borlase Warren,False,-1.278252,52.927625,England,Nottingham,3.45
+525,Lloyds No.1 Bar,False,-1.14519,52.953599,England,Nottingham,3.45
+648,The Claude du Vall,False,-0.743687,51.337192,England,Camberley,3.45
+650,The George,False,-0.513366,51.433656,England,Staines-upon-Thames,3.45
+652,The Jack Fairman,False,-0.161764,51.170349,England,Horley,3.45
+520,The Electrical Wizard,False,-1.69083,55.166767,England,Morpeth,3.45
+519,John The Clerk of Cramlington,False,-1.585128,55.086589,England,Cramlington,3.45
+541,The Stag & Pheasant,False,-1.195501,53.145772,England,Mansfield,3.45
+653,The Jack Phillips,False,-0.612217,51.185709,England,Godalming,3.45
+542,The Trent Bridge Inn,False,-1.134167,52.937184,England,Nottingham,3.45
+544,The Woodthorpe Top,False,-1.123279,52.983651,England,Nottingham,3.45
+50,The Falcon,False,-0.751336,51.629327,England,High Wycombe,3.45
+83,The Calverts Court,False,-2.157645,53.410333,England,Stockport,3.45
+564,The Tumble Inn,False,-3.340818,51.599484,Wales,Pontypridd,3.45
+563,The Lord of the Isles,False,-4.364801,55.875941,Scotland,Renfrew,3.45
+562,The Last Post,False,-4.424535,55.846603,Scotland,Paisley,3.45
+561,The New Fairlop Oak,False,0.085138,51.594121,England,Fairlop,3.45
+86,The Friar Penketh,False,-2.593436,53.387163,England,Warrington,3.45
+641,The Cricketers,False,1.154641,52.05952,England,Ipswich,3.45
+558,The Eva Hart,False,0.13027,51.570419,England,Chadwell Heath,3.45
+87,The George Inn,False,-2.362178,53.143343,England,Sandbach,3.45
+555,The Fair O'Blair,False,-3.338402,56.592614,Scotland,Blairgowrie,3.45
+554,The Capital Asset,False,-3.425895,56.396318,Scotland,Perth,3.45
+553,The William Owen,False,-4.968229,51.801554,Wales,Haverfordwest,3.45
+552,The William Morris,False,-1.217602,51.732347,England,Oxford,3.45
+642,The Drabbet Smock,False,0.437527,52.082715,England,Haverhill,3.45
+550,The Penny Black,False,-1.151713,51.898817,England,Bicester,3.45
+88,The J. P. Joule,False,-2.317552,53.424075,England,Sale,3.45
+643,The Golden Lion,False,0.40739,52.244779,England,Newmarket,3.45
+89,The Kingfisher,False,-2.124031,53.346484,England,Poynton,3.45
+546,The Company of Weavers,False,-1.484908,51.783603,England,Witney,3.45
+49,Captain Ridley's Shooting Party,False,-0.726308,51.995776,England,Milton Keynes,3.45
+543,The William Peverel,False,-1.196372,53.002567,England,Nottingham,3.45
+161,The Chevalier Inn,False,-3.5329,50.722202,England,Exeter,3.45
+159,The Admiral Collingwood,False,-4.119226,51.210195,England,Ilfracombe,3.45
+409,The William Wygston,False,-1.105556,52.587736,England,Wigston,3.45
+188,The Quay,False,-1.98653,50.712209,England,Poole,3.45
+762,The Glass Blower,False,-1.353853,53.726941,England,Castleford,3.45
+287,The First Post,False,-1.067159,50.844878,England,Cosham,3.45
+286,The Denmead Queen,False,-1.030626,50.880772,England,Waterlooville,3.45
+285,The Crown Inn,False,-1.176949,50.852333,England,Fareham,3.45
+284,The Bright Water Inn,False,-1.430436,50.919801,England,Shirley,3.45
+283,The Angel,False,-1.085469,51.265567,England,Basingstoke,3.45
+12,The Swan Hotel,False,-0.663266,51.915843,England,Leighton Buzzard,3.45
+11,The Pilgrim's Progress,False,-0.471718,52.136021,England,Bedford,3.45
+767,The Lord Wilson,False,-1.779138,53.645647,England,Huddersfield,3.45
+189,The Royal Oak,False,-2.439143,50.715187,England,Dorchester,3.45
+768,The Myrtle Grove,False,-1.837362,53.847262,England,Bingley,3.45
+769,The Obediah Brooke,False,-1.712401,53.724622,England,Cleckheaton,3.45
+276,Tafarn Y Porth,False,-4.274801,53.140706,Wales,Caernarfon,3.45
+275,Pen Cob,False,-4.417534,52.887857,Wales,Pwllheli,3.45
+770,The Old Unicorn,False,-1.627304,53.810925,England,Leeds,3.45
+771,The Picture House,False,-1.600059,53.744171,England,Leeds,3.45
+272,The Shay Wake,False,-2.093059,53.577836,England,Oldham,3.45
+772,The Richard Oastler,False,-1.779926,53.701401,England,Brighouse,3.45
+192,Robert the Bruce,False,-3.613408,55.070304,Scotland,Dumfries,3.45
+269,The Robert Shaw,False,-2.522385,53.548867,England,Westhoughton,3.45
+291,The John Jacques,False,-1.07679,50.798321,England,Portsmouth,3.45
+268,The Moon Under Water,False,-2.631714,53.545905,England,Wigan,3.45
+292,The John Russell Fox,False,-1.478963,51.206874,England,Andover,3.45
+294,The Lord Palmerston,False,-1.088961,50.784198,England,Southsea,3.45
+17,The Hope Tap,False,-0.975386,51.45654,England,Reading,3.45
+314,J.J. Moon's,False,0.216179,51.562883,England,Hornchurch,3.45
+313,The Village Inn,False,-0.370988,51.576899,England,Rayners Lane,3.45
+312,The Moon on the Hill,False,-0.33416,51.579376,England,Harrow,3.45
+704,The Bishop Vesey,False,-1.841088,52.548528,England,Sutton Coldfield,3.45
+750,Charles Henry Roe,False,-1.44693,53.807308,England,Leeds,3.45
+752,The Barum Top Inn,False,-1.862741,53.721678,England,Halifax,3.45
+308,The Wagon Works,False,-1.350602,50.969443,England,Eastleigh,3.45
+754,The Bowling Green,False,-1.692899,53.904207,England,Otley,3.45
+306,The Star,False,-1.121126,50.795369,England,Gosport,3.45
+755,The Briggate ,False,-1.3911228,53.7934453,England,Leeds,3.45
+757,The Cherry Tree,False,-1.782398,53.647402,England,Huddersfield,3.45
+303,The Sir John Baker,False,-1.079544,50.81545,England,Portsmouth,3.45
+758,The Clothier's Arms,False,-1.681586,53.866113,England,Leeds,3.45
+301,The Red Lion,False,-1.3603,50.9106,England,Southampton,3.45
+300,The Red Lion,False,-0.934238,51.003835,England,Petersfield,3.45
+299,The Queen Hotel,False,-0.767638,51.249835,England,Aldershot,3.45
+298,The Prince Arthur,False,-0.845027,51.278858,England,Fleet,3.45
+297,The Parchment Makers,False,-0.98459,50.85192,England,Havant,3.45
+760,The Crossed Shuttle,False,-1.661856,53.796504,England,Leeds,3.45
+187,The Parkstone and Heatherlands,False,-1.878568,50.743354,England,Bournemouth,3.45
+293,The Lord Arthur Lee,False,-1.181306,50.85248,England,Fareham,3.45
+20,The Old Manor,False,-0.745366,51.416569,England,Bracknell,3.45
+267,The Gateway,False,-2.220421,53.408019,England,East Didsbury,3.45
+265,The Brocket Arms ,False,-2.634421,53.556931,England,Wigan,3.45
+235,The Ivory Peg,False,0.473302,51.732532,England,Chelmsford,3.45
+234,The Elms,False,0.65646,51.547698,England,Leigh-on-Sea,3.45
+233,The Dairyman,False,0.304492,51.620812,England,Brentwood,3.45
+232,The Bottle Kiln,False,1.2809545,51.9366895,England,Harwich,3.45
+231,The Blue Boar,False,0.418519,51.626914,England,Billericay,3.45
+230,The Battesford Court,False,0.637871,51.798234,England,Witham,3.45
+229,Rose & Crown,False,0.677701,51.731543,England,Maldon,3.45
+228,Parsons' Barn,False,0.782313,51.540773,England,Shoeburyness,3.45
+227,Moon and Starfish,False,1.154217,51.787608,England,Clacton-on-Sea,3.45
+209,The Crowborough Cross,False,0.161607,51.060505,England,Crowborough,3.45
+225,The Moon Under Water,False,-0.087759,51.658782,England,Enfield,3.45
+210,The George Hotel,False,0.259596,50.862122,England,Hailsham,3.45
+223,The White Lady,False,-3.282521,55.942903,Scotland,Edinburgh,3.45
+789,The Bridge House,False,-2.117888,51.45839,England,Chippenham,3.45
+790,The Dockle Farmhouse,False,-1.754279,51.57486,England,Swindon,3.45
+793,The Silk Mercer,False,-1.995355,51.351756,England,Devizes,3.45
+4,The Corn Exchange,False,-2.582331,56.55884,Scotland,Arbroath,3.45
+795,George Hotel,False,-2.315428,52.37577,England,Bewdley,3.45
+796,Golden Cross Hotel,False,-2.061787,52.333918,England,Bromsgrove,3.45
+797,The Crown,False,-2.22212,52.192865,England,Worcester,3.45
+3,The Gordon Highlander,False,-2.37967,57.28482,Scotland,Inverurie,3.45
+236,The Last Post,False,0.713005,51.536483,England,Southend-on-Sea,3.45
+193,Jolly's Hotel,False,-2.873623,56.466195,Scotland,Broughty Ferry,3.45
+237,The Picture Palace,False,0.553562,51.877172,England,Braintree,3.45
+239,The Roebuck,False,0.603515,51.584894,England,Rayleigh,3.45
+264,The Art Picture House,False,-2.298262,53.59145,England,Bury,3.45
+263,The Royal Hop Pole,False,-2.158586,51.991955,England,Tewkesbury,3.45
+262,The Regal,False,-2.242722,51.86581,England,Gloucester,3.45
+261,The Moon Under Water,False,-2.072483,51.897521,England,Cheltenham,3.45
+259,The Lord High Constable of England,False,-2.253147,51.861708,England,Gloucester,3.45
+258,The Bank House,False,-2.075858,51.900895,England,Cheltenham,3.45
+10,The Crown Hotel,False,-0.264907,52.0869051,England,Biggleswade,3.45
+775,The Three Hulats,False,-1.535324,53.826077,England,Leeds,3.45
+255,The Kirky Puffer,False,-4.154589,55.938177,Scotland,Glasgow,3.45
+776,The Turls Green,False,-1.754838,53.793032,England,Bradford,3.45
+253,The Esquire House,False,-4.321724,55.888472,Scotland,Glasgow,3.45
+9,The Railway Bell,False,-0.173009,51.650381,England,Barnet,3.45
+778,The Winter Seam,False,-1.341896,53.710173,England,Castleford,3.45
+195,The Greenwood Hotel,False,-0.351424,51.552786,England,Northolt,3.45
+198,The Wheatsheaf Inn,False,-4.497014,55.611143,Scotland,Kilmarnock,3.45
+246,The Guildhall & Linen Exchange,False,-3.461366,56.071339,Scotland,Dunfermline,3.45
+245,The Golden Acorn,False,-3.167625,56.195863,Scotland,Glenrothes,3.45
+205,The Prior John,False,-0.187999,54.083651,England,Bridlington,3.45
+786,The Bath Arms,False,-2.180071,51.204758,England,Warminster,3.45
+787,The Bear,False,-2.13862,51.374932,England,Melksham,3.45
+788,The Bell,False,-1.780965,51.172115,England,Amesbury,3.45
+238,The Playhouse,False,0.896916,51.887618,England,Colchester,3.45
+317,The Duke's Head,False,-2.737973,52.227174,England,Leominster,3.45
+748,The Three Fishes,False,-0.370706,50.81329,England,Worthing,3.45
+183,The Lord Wimborne,False,-1.982635,50.716528,England,Poole,3.45
+170,The Richard Hopkins,False,-3.607806,50.530714,England,Newton Abbot,3.45
+171,The Rose Salterne,False,-4.205854,51.019901,England,Bideford,3.45
+380,The Court Leet,False,-2.885233,53.568405,England,Ormskirk,3.45
+172,The Sawyer's Arms,False,-3.544117,50.715339,England,Exeter,3.45
+173,The Stannary Court,False,-4.051731,50.3878,England,Plympton,3.45
+377,The Ash Tree,False,-2.092356,53.489888,England,Ashton-under-Lyne,3.45
+707,The Bottle of Sack,False,-1.825511,52.560252,England,Sutton Coldfield,3.45
+706,The Bloxwich Showman,False,-2.004171,52.61478,England,Bloxwich,3.45
+709,The Britannia,False,-2.041796,52.473732,England,Rowley Regis,3.45
+712,The City Arms,False,-1.530717,52.39965,England,Coventry,3.45
+713,The Clifton,False,-2.122461,52.541402,England,Sedgley,3.45
+714,The Court of Requests,False,-2.015851,52.504695,England,Oldbury,3.45
+184,The Man in the Wall ,False,-1.988347,50.800828,England,Wimborne,3.45
+367,The Society Rooms,False,0.521807,51.2776,England,Maidstone,3.45
+174,The Star Inn,False,-3.188086,50.798431,England,Honiton,3.45
+359,The Muggleton Inn,False,0.522265,51.273694,England,Maidstone,3.45
+26,The Navigation Inn,False,-1.92662486,52.4078348,England,Birmingham,3.45
+175,The Talk of the Town,False,-3.561503,50.435163,England,Paignton,3.45
+168,The Powder Monkey,False,-3.413702,50.62033,England,Exmouth,3.45
+387,The Postal Order,False,-2.482473,53.746712,England,Blackburn,3.45
+408,The White House,False,-1.046835,52.642978,England,Leicester,3.45
+407,The Sugar Loaf,False,-0.922402,52.478993,England,Market Harborough,3.45
+406,The Shoulder of Mutton,False,-1.473575,52.746712,England,Ashby-de-la-Zouch,3.45
+405,The Monkey Walk,False,-1.374327,52.723504,England,Coalville,3.45
+162,The Gog and Magog,False,-4.137516,50.367521,England,Plymouth,3.45
+403,The Kettleby Cross,False,-0.889285,52.76571,England,Melton Mowbray,3.45
+800,The Royal Enfield,False,-1.943181,52.307042,England,Redditch,3.45
+386,The Old Chapel,False,-2.465437,53.696006,England,Darwen,3.45
+163,The Green Ginger,False,-3.525525,50.462146,England,Torquay,3.45
+164,The Imperial,False,-3.539669,50.730207,England,Exeter,3.45
+165,The Jolie Brise,False,-3.49449,50.547066,England,Teignmouth,3.45
+394,The Thomas Burke,False,-2.518967,53.499335,England,Leigh,3.45
+393,The Sir Thomas Gerard,False,-2.637073,53.486816,England,Ashton-in-Makerfield,3.45
+166,The Mannamead,False,-4.13374,50.382396,England,Plymouth,3.45
+391,The Sir Henry Tate,False,-2.630574,53.653949,England,Chorley,3.45
+167,The Panniers,False,-4.05812,51.08076,England,Barnstaple,3.45
+705,The Black Horse,False,-1.973423,52.411922,England,Birmingham,3.45
+356,The Humphrey Bean,False,0.274508,51.195131,England,Tonbridge,3.45
+58,The College Arms,False,-0.241674,52.575379,England,Peterborough,3.45
+176,The Union Rooms,False,-4.148014,50.36971,England,Plymouth,3.45
+726,The Pump House,False,-1.827759,52.412863,England,Solihull,3.45
+179,The White Ball Inn,False,-3.490818,50.902939,England,Tiverton,3.45
+343,The Moon Under Water,False,-0.369405,51.467084,England,Hounslow,3.45
+342,The Moon on the Square,False,-0.410089,51.44636,England,Feltham,3.45
+341,The Tichenham Inn,False,-0.444724,51.564449,England,Ickenham,3.45
+728,The Sir Henry Newbolt,False,-2.080305,52.564048,England,Bilston,3.45
+181,The Blackwater Stream,False,-1.993428,50.759362,England,Poole,3.45
+337,J.J. Moon's,False,-0.413293,51.573325,England,Ruislip Manor,3.45
+731,The Spread Eagle,False,-1.819665,52.44673,England,Birmingham,3.45
+733,The Waterfront Inn,False,-2.114407,52.485688,England,Brierley Hill,3.45
+182,The Greyhound,False,-2.757899,50.733496,England,Bridport,3.45
+734,The White Swan,False,-1.781063,52.414457,England,Solihull,3.45
+735,The William Shenstone,False,-2.050818,52.449699,England,Halesowen,3.45
+736,The William Tyler,False,-1.808551,52.467438,England,Birmingham,3.45
+741,The George Inn,False,-0.54373,50.809132,England,Littlehampton,3.45
+742,The Hatter's Inn,False,-0.67554,50.783175,England,Bognor Regis,3.45
+326,The Moon and Cross,False,-0.032768,51.684945,England,Waltham Cross,3.45
+323,The Crown,False,-0.563154,51.759795,England,Berkhamsted,3.45
+321,The Admiral Byng,False,-0.19023,51.699604,England,Potters Bar,3.45
+725,The Moon Under Water,False,-2.124171,52.586747,England,Wolverhampton,3.45
+724,The Moon Under Water,False,-2.082466,52.472103,England,Cradley Heath,3.45
+727,The Royal Tiger,False,-2.081891,52.600292,England,Wednesfield,3.45
+723,The Mare Pool,False,-1.828419,52.58654,England,Mere Green,3.45
+722,The Hornet,False,-1.819487,52.492716,England,Birmingham,3.45
+178,The Water Gate,False,-4.06028,51.078846,England,Barnstaple,3.45
+177,The Vigilance,False,-3.515982,50.393704,England,Brixham,3.45
+693,The Golden Bee,False,-1.70568,52.191596,England,Stratford-upon-Avon,3.57
+351,The County Hotel,False,0.875148,51.149034,England,Ashford,3.59
+331,The Standing Order,False,-0.208075,51.912074,England,Stevenage,3.59
+464,The Sir Henry Segrave ,False,-3.010488,53.645861,England,Southport,3.59
+57,Sandford House,False,-0.18713,52.33043,England,Huntingdon,3.59
+396,The Trawl Boat Inn,False,-3.029976,53.750937,England,Lytham St Annes,3.59
+557,The George Hotel,False,-3.3934178,51.9487309,Wales,Brecon,3.59
+360,The Peter Cushing,False,1.024231,51.35654,England,Whitstable,3.59
+52,The Moon Under Water,False,-0.748931,52.041924,England,Milton Keynes,3.59
+401,The Corn Exchange,False,-1.133307,52.634591,England,Leicester,3.59
+402,The High Cross,False,-1.138583,52.635339,England,Leicester,3.59
+325,The Manor House,False,-0.023027,52.048273,England,Royston,3.59
+322,The Angel Vaults Inn,False,-0.278658,51.946575,England,Hitchin,3.59
+357,The Leading Light,False,0.891083,51.313756,England,Faversham,3.59
+413,Ritz,False,-0.543243,53.22437,England,Lincoln,3.59
+320,Harpsfield Hall,False,-0.240634,51.762955,England,Hatfield,3.59
+363,The Samuel Peto,False,1.18142,51.080596,England,Folkestone,3.59
+422,The Square Sail,False,-0.546572,53.22982,England,Lincoln,3.59
+364,The Saxon Shore,False,1.125989,51.372729,England,Herne Bay,3.59
+388,The Poulton Elk,False,-2.992392,53.845362,England,Poulton-le-Fylde,3.59
+717,The Earl of Mercia,False,-1.508567,52.40713,England,Coventry,3.59
+730,The Spon Gate,False,-1.517802,52.407202,England,Coventry,3.59
+697,The NewYearField ,False,-3.517758,55.882537,Scotland,Livingston,3.59
+366,The Sir Norman Wisdom,False,1.401747,51.223092,England,Deal,3.59
+54,Wetherspoons,False,-0.767558,52.037551,England,Milton Keynes,3.59
+383,The Jolly Tars,False,-3.037271,53.876358,England,Thornton-Cleveleys,3.59
+194,The Counting House,False,-2.971839,56.462066,Scotland,Dundee,3.59
+368,The Thomas Ingoldsby,False,1.083504,51.278429,England,Canterbury,3.59
+370,The West Gate Inn,False,1.075665,51.281969,England,Canterbury,3.59
+720,The Flying Standard,False,-1.509486,52.409068,England,Coventry,3.59
+455,The Lifeboat,False,-3.0595371,53.5562853,England,Liverpool,3.59
+389,The Railway Hotel,False,-2.956792,53.738048,England,Lytham St Annes,3.59
+715,The Cross Inn,False,-2.16848,52.49742,England,Kingswinford,3.59
+196,The Red Lion & Pineapple,False,-0.276566,51.508265,England,Acton,3.63
+197,The Sir Michael Balcon,False,-0.298768,51.513603,England,Ealing,3.63
+21,The Furze Wren,False,0.147673,51.456605,England,Bexleyheath,3.67
+23,The Tailor's Chalk,False,0.103513,51.426161,England,Sidcup,3.67
+24,The Wrong 'Un,False,0.137447,51.457745,England,Bexleyheath,3.67
+7,The Beaten Docket,False,-0.211525,51.553529,England,Cricklewood,3.67
+651,The Herbert Wells,False,-0.55547,51.320567,England,Woking,3.67
+13,The White House,False,-0.418472,51.881703,England,Luton,3.67
+1,The Justice Mill,False,-2.10967,57.143368,Scotland,Aberdeen,3.67
+673,The Keel Row,False,-1.617607,54.972519,England,Newcastle upon Tyne,3.67
+640,The Corn Exchange,False,0.712276,52.244723,England,Bury St Edmunds,3.67
+0,The Archibald Simpson,False,-2.093642,57.148118,Scotland,Aberdeen,3.67
+373,The Watchman,False,-0.255329,51.398867,England,New Malden,3.67
+309,Spouter's Corner,False,-0.108708,51.596974,England,Wood Green,3.67
+304,The Six Bells,False,-1.545543,50.757491,England,Lymington,3.67
+410,The Brockley Barge,False,-0.036417,51.464138,England,Brockley,3.67
+311,The Moon and Sixpence,False,-0.372714,51.608306,England,Hatch End,3.67
+289,The Isambard Kingdom Brunel,False,-1.092599,50.797034,England,Portsmouth,3.67
+316,The Moon and Stars,False,0.182887,51.575999,England,Romford,3.67
+324,The Full House,False,-0.472611,51.753486,England,Hemel Hempstead,3.67
+278,Baxter's Court,False,-0.055087,51.545456,England,Hackney,3.67
+273,The Gate Clock,False,-0.011132,51.481489,England,Greenwich,3.67
+328,The Pennsylvanian,False,-0.46979,51.638871,England,Rickmansworth,3.67
+133,The George,False,-0.098439,51.37405,England,Croydon,3.67
+122,The Bishops' Mill,False,-1.575286,54.777955,England,Durham,3.67
+345,S. Fowler & Co.,False,-1.162669,50.730365,England,Ryde,3.67
+412,The Watch House,False,-0.01164,51.459945,England,Lewisham,3.67
+336,The King's Highway,False,-4.227476,57.479581,Scotland,Inverness,3.67
+375,The Holland Tringham,False,-0.129823,51.430174,England,Streatham,3.67
+619,The Surrey Docks,False,-0.04659,51.493054,England,Rotherhithe,3.67
+371,The Coronation Hall,False,-0.303705,51.393521,England,Surbiton,3.67
+353,The Flying Boat,False,0.214793,51.444745,England,Dartford,3.67
+346,The Man in the Moon,False,-1.295876,50.700145,England,Newport,3.67
+655,The Rodboro Buildings,False,-0.57761,51.236732,England,Guildford,3.69
+330,The Six Templars,False,-0.079142,51.79603,England,Hertford,3.69
+329,The Port Jackson,False,0.162104,51.869167,England,Bishop’s Stortford,3.69
+481,The Bell Hotel,False,1.295477,52.627349,England,Norwich,3.8
+332,The Star  ,False,-0.01179,51.761613,England,Hoddesdon,3.8
+477,Goldengrove,False,0.003998,51.543751,England,Stratford,3.8
+348,Opera House,False,0.263785,51.133718,England,Royal Tunbridge Wells,3.8
+674,The Mile Castle,False,-1.616518,54.970068,England,Newcastle upon Tyne,3.8
+482,The Glass House,False,1.297822,52.632297,England,Norwich,3.8
+675,The Quayside,False,-1.610529,54.96766,England,Newcastle upon Tyne,3.8
+505,The Postern Gate,False,-1.077186,53.954488,England,York,3.8
+138,The Chief Justice of the Common Pleas ,False,-3.137898,54.60191,England,Keswick,3.8
+334,Waterend Barn,False,-0.337335,51.752619,England,St Albans,3.8
+489,The Whiffler,False,1.268563,52.654318,England,Norwich,3.8
+327,The Moon Under Water,False,-0.39783,51.656475,England,Watford,3.8
+506,The Punch Bowl,False,-1.091004,53.95562,England,York,3.8
+484,The Queen of Iceni,False,1.303605,52.625048,England,Norwich,3.8
+305,The Standing Order,False,-1.403771,50.900512,England,Southampton,3.8
+551,The Swan & Castle,False,-1.26157,51.7511,England,Oxford,3.8
+548,The Four Candles,False,-1.262114,51.753444,England,Oxford,3.8
+95,The Square Bottle,False,-2.884266,53.191467,England,Chester,3.8
+559,The George,False,0.028173,51.575947,England,Wanstead,3.8
+211,The John Logie Baird,False,0.579626,50.855856,England,Hastings,3.8
+288,The Giddy Bridge,False,-1.404486,50.911025,England,Southampton,3.8
+791,The King's Head Inn,False,-1.798179,51.068624,England,Salisbury,3.8
+14,The Back of Beyond,False,-0.963423,51.45483,England,Reading,3.8
+511,The Winter Gardens,False,-1.543775,53.994265,England,Harrogate,3.8
+82,The Bull and Stirrup Hotel,False,-2.8954316,53.1943986,England,Chester,3.8
+349,Royal Victoria Pavilion,False,1.4236491,51.3318333,England,Ramsgate,3.92
+612,The Steel Foundry,False,-1.412461,53.41304,England,Sheffield,3.92
+682,Wetherspoons,False,-1.668555,54.957641,England,Gateshead,3.99
+5,The Corryvreckan,False,-5.474628,56.412796,Scotland,Oban,4.03
+355,The Golden Lion,False,0.50679,51.386571,England,Rochester,4.03
+208,The Bright Helm,False,-0.144418,50.822812,England,Brighton,4.03
+361,The Railway ,False,0.611751,51.365712,England,Rainham,4.03
+207,Cornfield Garage,False,0.284555,50.767602,England,Eastbourne,4.03
+716,The Dragon Inn,False,-1.896646,52.474271,England,Birmingham,4.03
+369,The Thomas Waghorn,False,0.522704,51.382159,England,Chatham,4.03
+215,The West Quay,False,-0.105217,50.81215,England,Brighton,4.03
+214,The Post & Telegraph,False,-0.140446,50.822988,England,Brighton,4.03
+708,The Briar Rose,False,-1.900193,52.479918,England,Birmingham,4.03
+719,The Figure of Eight,False,-1.912312,52.476565,England,Birmingham,4.03
+729,The Soloman Cutler,False,-1.910082,52.478124,England,Birmingham,4.03
+256,The Sir John Moore,False,-4.259879,55.858751,Scotland,Glasgow,4.03
+252,The Crystal Palace,False,-4.257313,55.857518,Scotland,Glasgow,4.03
+15,The Bear,False,-0.717843,51.523039,England,Maidenhead,4.03
+751,Stick or Twist,False,-1.543248,53.8027,England,Leeds,4.03
+749,Beckett's Bank,False,-1.547285,53.79858,England,Leeds,4.03
+296,The Old Gaolhouse,False,-1.316288,51.06382,England,Winchester,4.03
+761,The Cuthbert Brodrick,False,-1.547888,53.801747,England,Leeds,4.03
+764,The Hedley Verity,False,-1.545685,53.802007,England,Leeds,4.03
+190,The Swan ,False,-2.455106,50.608135,England,Weymouth,4.03
+274,The Great Harry,False,0.066917,51.489975,England,Woolwich,4.03
+191,The William Henry,False,-2.45426,50.611574,England,Weymouth,4.03
+739,The Dolphin & Anchor,False,-0.779968,50.836676,England,Chichester,4.03
+773,The Scribbling Mill,False,-1.57429,53.75778,England,Leeds,4.03
+257,The Society Room,False,-4.257089,55.862294,Scotland,Glasgow,4.03
+16,The Hatchet Inn,False,-1.322141,51.400916,England,Newbury,4.03
+254,The Hengler's Circus,False,-4.2667,55.86569,Scotland,Glasgow,4.03
+732,The Square Peg,False,-1.894953,52.481874,England,Birmingham,4.03
+251,The Counting House,False,-4.2518,55.861023,Scotland,Glasgow,4.03
+376,The Albert and The Lion,False,-3.055058,53.816919,England,Blackpool,4.03
+213,The Picture Playhouse,False,0.4691042,50.8402211,England,Bexhill-on-Sea,4.03
+398,The Velvet Coaster,False,-3.056067,53.794853,England,Blackpool,4.03
+666,Luther's Bar,False,-1.6152,54.97889,England,Newcastle upon Tyne,4.03
+36,The Berkeley,False,-2.605208,51.455866,England,Bristol,4.03
+452,The Fall Well,False,-2.980048,53.406642,England,Liverpool,4.03
+467,The Welkin,False,-2.98582,53.405776,England,Liverpool,4.03
+448,The Captain Alexander,False,-2.9914214,53.4048621,England,Liverpool,4.03
+566,The William Webb Ellis,False,-0.32853,51.447591,England,Twickenham,4.03
+77,The Prince of Wales,False,-3.177898,51.477658,Wales,Cardiff,4.03
+76,The Mount Stuart,False,-3.166651,51.462724,Wales,Cardiff,4.03
+74,The Great Western,False,-3.17689,51.476596,Wales,Cardiff,4.03
+463,The Richard John Blackler,False,-2.979932,53.406077,England,Liverpool,4.03
+73,The Gatekeeper,False,-3.181925,51.480148,Wales,Cardiff,4.03
+107,The Palladium,False,-3.832359,53.325173,Wales,Llandudno,4.03
+212,The London & County,False,0.281549,50.768832,England,Eastbourne,4.03
+384,The Layton Rakes,False,-3.055122,53.818256,England,Blackpool,4.03
+47,The Richmal Crompton,False,0.016744,51.399671,England,Bromley,4.03
+497,The Angel Hotel,False,-0.613778,54.486015,England,Whitby,4.03
+43,The W. G. Grace,False,-2.608749,51.462859,England,Bristol,4.03
+669,The Five Swans,False,-1.61177,54.9778,England,Newcastle upon Tyne,4.03
+45,The Greyhound,False,0.013233,51.406371,England,Bromley,4.03
+71,The Central Bar,False,-3.172948,51.483341,Wales,Cardiff,4.03
+310,The Mossy Well,False,-0.14164,51.590873,England,Muswell Hill,4.04
+48,The Sovereign of the Seas,False,0.072138,51.389326,England,Petts Wood,4.04
+340,The Good Yarn,False,-0.480843,51.547785,England,Uxbridge,4.04
+647,The Assembly Rooms,False,-0.270009,51.332762,England,Epsom,4.04
+281,The Plough & Harrow,False,-0.231469,51.492665,England,Hammersmith,4.04
+584,The King of Wessex,False,-2.364582,51.380979,England,Bath,4.04
+119,The Bridge House,False,-5.931808,54.593013,N Ireland,Belfast,4.14
+44,V-Shed,False,-2.598749,51.449838,England,Bristol,4.16
+335,The Great Glen,False,-5.11381,56.816444,Scotland,Fort William,4.18
+430,Castle in the Air,False,-2.3611,53.468675,England,Manchester,4.22
+374,The Beehive,False,-0.114514,51.463752,England,Brixton,4.23
+615,The Fox on the Hill,False,-0.09002,51.464865,England,Camberwell,4.23
+545,The Catherine Wheel,False,-0.904076,51.537712,England,Henley-on-Thames,4.29
+62,The Regal,False,0.123872,52.202936,England,Cambridge,4.29
+40,The Knights Templar,False,-2.582064,51.450828,England,Bristol,4.29
+280,The Central Bar,False,-0.219395,51.503871,England,Shepherds Bush,4.29
+222,The Standing Order,False,-3.199702,55.952978,Scotland,Edinburgh,4.38
+218,The Caley Picture House,False,-3.208378,55.9482283,Scotland,Edinburgh,4.38
+216,The Alexander Graham Bell,False,-3.205333,55.951995,Scotland,Edinburgh,4.38
+302,The Sir Alec Rose,False,-1.097682,50.840933,England,Portsmouth,4.38
+220,The Playfair,False,-3.18587,55.956463,Scotland,Edinburgh,4.38
+186,The Moon in the Square,False,-1.880494,50.718063,England,Bournemouth,4.38
+439,The Paramount,False,-2.242548,53.476453,England,Manchester,4.38
+443,The Waterhouse,False,-2.243099,53.479171,England,Manchester,4.38
+441,The Seven Stars,False,-2.24004,53.48503,England,Manchester,4.38
+185,The Mary Shelley,False,-1.8761,50.720638,England,Bournemouth,4.38
+444,Wetherspoons,False,-2.235089,53.481224,England,Manchester,4.38
+365,The Sennockian,False,0.192559,51.272538,England,Sevenoaks,4.38
+37,The Commercial Rooms,False,-2.594428,51.454454,England,Bristol,4.38
+438,The Moon Under Water,False,-2.24691,53.482745,England,Manchester,4.38
+469,The Wibbas Down Inn,False,-0.202661,51.419166,England,Wimbledon,4.38
+372,The Kings Tun,False,-0.300592,51.411467,England,Kingston upon Thames,4.38
+347,The White Swan,False,-0.103411,51.545739,England,Islington,4.38
+459,The North Western,False,-2.977003,53.407259,England,Liverpool,4.57
+779,Wetherspoons,False,-1.547586,53.794167,England,Leeds,4.62
+25,The London and North Western,False,-1.899,52.478,England,Birmingham,4.62
+437,The Mardi Gras,False,-2.349005,53.466179,England,Manchester,4.62
+282,The William Morris,False,-0.225152,51.493014,England,Hammersmith,4.66
+688,The London and South Western,False,-0.167485,51.464029,England,Battersea,4.66
+51,The Hope & Champion,False,-0.62752,51.587677,England,Beaconsfield,4.68
+18,The King and Castle,False,-0.608679,51.483657,England,Windsor,4.84
+689,The Rocket ,False,-0.212939,51.465604,England,Putney,5.04
+217,The Booking Office,False,-3.191294,55.952631,Scotland,Edinburgh,5.08
+618,The Rockingham Arms,False,-0.099727,51.496082,England,Elephant and Castle,5.2
+104,The Masque Haunt,False,-0.090642,51.525198,England,Old Street,5.2
+617,The Pommelers Rest,False,-0.077334,51.502366,England,Tower Bridge,5.27
+69,The Ice Wharf,False,-0.145664,51.540874,England,Camden,5.27
+100,The Crosse Keys,False,-0.08471,51.51267,England,City of London,5.91
+101,The Goodman's Field,False,-0.072858,51.511494,England,Tower Hamlets,5.91
+102,The Ledger Building,False,-0.024544,51.507563,England,Docklands,5.91
+103,The Liberty Bounds,False,-0.078563,51.509695,England,Tower of London,5.91
+105,The Sir John Hawkshaw,False,-0.090251,51.511362,England,London,5.91
+67,Shakespeare's Head,False,-0.119686,51.516816,England,Holborn,5.91
+780,The Metropolitan Bar,False,-0.156875,51.522517,England,Marylebone,5.91
+781,The Montagu Pyke,False,-0.12974,51.514053,England,Westminster,5.91
+66,Penderel's Oak,False,-0.115481,51.517967,England,Holborn,5.91
+244,The Sir John Oldcastle,False,-0.105882,51.519816,England,Farringdon,5.91
+68,The Captain Flinders,False,-0.13243,51.52897,England,Euston,5.91
+429,The Stargazer,False,0.002512,51.503842,England,Greenwich,6.12
+27,Wetherspoon,True,-1.732618,52.453344,England,Birmingham,6.25
+701,The Atrium,False,-1.717906,52.454597,England,Birmingham,6.25
+737,Wetherspoons,False,-1.71707,52.453891,England,Birmingham,6.25
+784,Wetherspoons,False,-0.144408,51.495295,England,Victoria,6.29
+428,The Barrel Vault,False,-0.12637,51.5325544,England,Camden,6.29
+99,Hamilton Hall,False,-0.080963,51.517643,England,City of London,6.29
+783,The Willow Walk,False,-0.14253,51.495025,England,Victoria,6.29
+339,The Crown Rivers,True,-0.4875542,51.473187,England,Hounslow,6.55
+740,The Flying Horse,True,-0.163049,51.15599,England,Crawley,6.55
+242,The Windmill,True,0.260748,51.890528,England,Stansted,6.55
+738,The Beehive,True,-0.163049,51.15599,England,Crawley,6.55
+221,The Sir Walter Scott,True,-3.362945,55.948862,Scotland,Edinburgh,6.55
+470,Star Light,True,-0.44538,51.46148,England,Hounslow,6.55
+746,The Red Lion,True,-0.179121,51.161299,England,Crawley,6.55
+782,The Moon Under Water,False,-0.129424,51.510266,England,Westminster,6.66

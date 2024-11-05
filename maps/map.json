@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Wetherspoons Guinness Prices",
+    "subtitle": ["1 Pint, Excluding Airports", ""]
+  },
+  "width": 300,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/FM-ds/Festival_Display/main/data/cleaned/lowpoly_LAD.json",
+    "format": {"type": "topojson"}
+  },
+  "projection": {"type": "naturalEarth1"},
+  "layer": [
+    {
+      "mark": {
+        "type": "geoshape",
+        "fill": "rgb(225,225,225)",
+        "stroke": "rgb(20,20,20)",
+        "strokeWidth": 0.1
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/FM-ds/FM-ds.github.io/main/prices_locations.csv"
+      },
+      "projection": {"type": "naturalEarth1"},
+      "mark": {
+        "type": "circle",
+        "stroke": "rgb(0,0,0,0.2)",
+        "strokeWidth": 0.2
+      },
+      "encoding": {
+        "longitude": {"field": "long", "type": "quantitative"},
+        "latitude": {"field": "lat", "type": "quantitative"},
+        "color": {
+          "field": "guiness_price",
+          "title": "Price",
+          "type": "quantitative",
+          "scale": {
+            "scheme": "lightmulti",
+            "reverse": false,
+            "type": "quantize"
+          }
+        }
+      }
+    }
+  ]
+}

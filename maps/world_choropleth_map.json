@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Global GDP",
+    "subtitle": [
+      "GDP: per capita PPP (international $)",
+      "Source: World Bank 2021",
+      ""
+    ],
+    "fontSize": 16,
+    "subtitleFontSize": 12,
+    "subtitleFontWeight": "lighter",
+    "anchor": "middle"
+  },
+  "description": "2021 World Bank data, GDP per capita in current international $ and converted to purchasing power parity. Grey countries have missing data.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/datasets/advanced/map_world.geojson",
+    "format": {"property": "features"}
+  },
+  "width": 600,
+  "height": 330,
+  "transform": [
+    {
+      "lookup": "properties.ISO3",
+      "from": {
+        "key": "ISO3",
+        "fields": ["country", "value"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/datasets/advanced/global_gdp_perCapita_2021.csv"
+        }
+      }
+    }
+  ],
+  "projection": {
+    "type": "naturalEarth1",
+    "scale": 125,
+    "translate": [285, 180]
+  },
+  "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.3},
+  "encoding": {
+    "color": {
+      "condition": {"value": "lightgrey", "test": "!datum['value']"},
+      "field": "value",
+      "type": "quantitative",
+      "legend": {"title": "", "format": "$,d"},
+      "scale": {"type": "log", "scheme": "viridis", "reverse": false}
+    },
+    "tooltip": [
+      {"field": "country", "title": "Country"},
+      {"field": "value", "title": "", "format": "$,d"}
+    ]
+  }
+}
