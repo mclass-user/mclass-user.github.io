@@ -1,0 +1,52 @@
+datum.guiness_price{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 250,
+  "height": 500,
+  "params": [
+    {
+      "name": "minPrice",
+      "value": 2.5,
+      "bind": {"input": "range", "min": 2.5, "max": 7, "name": "Min Price:"}
+    },
+    {
+      "name": "maxPrice",
+      "value": 7,
+      "bind": {"input": "range", "min": 2.5, "max": 7, "name": "Max Price:"}
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/FM-ds/Festival_Display/main/data/cleaned/lowpoly_LAD.json",
+        "format": {"type": "topojson"}
+      },
+      "mark": {"type": "geoshape", "fill": "silver"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/mclass-user/mclass-user.github.io/refs/heads/main/maps/pint_data.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.guiness_price > minPrice & datum.guiness_price < maxPrice"
+        }
+      ],
+      "mark": {"type": "circle"},
+      "encoding": {
+        "longitude": {"field": "long"},
+        "latitude": {"field": "lat"},
+        "tooltip": [
+          {"field": "name", "title": "Pub"},
+          {"field": "guiness_price", "title": "Price"},
+          {"field": "isAirport"},
+          {"field": "town"}
+        ],
+        "color": {
+          "field": "guiness_price",
+          "scale": {"scheme": "yellowgreenblue", "type": "linear"},
+          "type": "quantitative"
+        }
+      }
+    }
+  ]
+}
