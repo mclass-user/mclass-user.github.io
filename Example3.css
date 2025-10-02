@@ -20,7 +20,7 @@ body { /* We can style any HTML element by using its name - here we're styling t
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  color: "purple";
   margin-top: 24px;
   margin-bottom: 16px;
   font-weight: 600;
