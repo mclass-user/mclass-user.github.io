@@ -1,0 +1,16 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "A line chart of M2 money supply in the US. 1960-2025.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/mclass-user/mclass-user.github.io/refs/heads/main/moneys_supply_clean_M2SL.csv"
+  },
+  "mark": "line",
+  "title": {
+    "text": "Money Supply",
+    "subtitle": "M2 nominal money supply, US. Source: FRED"
+  },
+  "encoding": {
+    "x": {"field": "date", "type": "temporal"},
+    "y": {"field": "money_supply", "type": "quantitative"}
+  }
+}
