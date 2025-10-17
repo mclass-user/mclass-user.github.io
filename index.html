@@ -89,6 +89,19 @@
         <figure id="chart3"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
     </section>
 
+    <section>
+        <div class="chart-description">
+            <h2>Week 2: Money supply </h2>
+            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
+                My first Vega-lite chart: M2 money supply. Source: M2SL from FRED
+            </p>
+        </div>
+        <figure id="pe_chart"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+    </section>
+
+
+ 
+
 
 
     <!-- Do you want to add more sections? -->
@@ -109,6 +122,8 @@
 
         let foo = "m2_line_chart.json"
 
+        let pe_chart_path = "shiller_pe_ratio_chart.json"
+
         // Do you want to add more graphs?
         // try defining a new variable for figure_3_spec, adding VegaEmbed for Location3, and adding a new section in the HTML
         // e.g. 
@@ -120,6 +135,8 @@
         vegaEmbed('#Location2', figure_2_spec);
         vegaEmbed('#Location3', figure_3_spec);
         vegaEmbed("#chart3", foo);
+
+        vegaEmbed("#pe_chart", pe_chart_path)
 
     </script>
 
