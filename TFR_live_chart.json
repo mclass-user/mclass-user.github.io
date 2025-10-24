@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": {
+    "text": "South Korea's total fertility rate",
+    "subtitle": "Source: UN Population Division via World Bank"
+  },
+  "transform": [{"calculate": "datum.value/2.1", "as": "scaled_tfr"}],
+  "mark": "line",
+  "data": {
+    "url": "https://api.worldbank.org/v2/country/kor;prk/indicator/SP.DYN.TFRT.IN?format=json&date=1960:2025&per_page=160",
+    "format": {"property": "[1]"}
+  },
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "title": "",
+      "axis": {"grid": false}
+    },
+    "color": {"field": "countryiso3code", "title": "Country"},
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"titleAngle": 0}
+    }
+  }
+}

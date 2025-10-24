@@ -96,11 +96,9 @@
                 My first Vega-lite chart: M2 money supply. Source: M2SL from FRED
             </p>
         </div>
-        <figure id="pe_chart"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="tfr-chart"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
     </section>
 
-
- 
 
 
 
@@ -122,8 +120,6 @@
 
         let foo = "m2_line_chart.json"
 
-        let pe_chart_path = "shiller_pe_ratio_chart.json"
-
         // Do you want to add more graphs?
         // try defining a new variable for figure_3_spec, adding VegaEmbed for Location3, and adding a new section in the HTML
         // e.g. 
@@ -136,7 +132,7 @@
         vegaEmbed('#Location3', figure_3_spec);
         vegaEmbed("#chart3", foo);
 
-        vegaEmbed("#pe_chart", pe_chart_path)
+        vegaEmbed("#tfr-chart", "TFR_live_chart.json");
 
     </script>
 
