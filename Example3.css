@@ -1,0 +1,67 @@
+/* This is an example CSS file. If you include it in your portfolio, it'll provide some clean and basic styling */
+/* for your page. Feel free to experiment with the values, or copy them into a new file and use that instead. */
+
+/* These are comments in CSS. Comments don't do anything except explain your working to make code easier to understand. */
+
+
+body { /* We can style any HTML element by using its name - here we're styling the body */
+  /* We want text that uses a clean sans-serif font, is usually 16px big and close to black */
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+  /* we want a white page, that's centered and not too wide */
+  background-color: #fff;
+  margin:0 auto;
+  max-width: 800px;
+  padding-top: 60px;
+}
+
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #333;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+}
+
+/* We want the headings to be a little bigger than the paragraph text */
+.big { /* This is the class we created in the HTML file, you can use it to style any element */
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+.small {
+  font-size: 1.25em;
+}
+
+/* Paragraph */
+p {
+  margin-bottom: 1em;
+  font-weight: 300;
+}
+
+section {
+  margin-bottom: 2.5em;  /* We want a little more space between sections */
+}
+
+/* Links */
+/* We want the links to be a little more visible  and a different color */
+a {
+  color: #065f46;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+  
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+}

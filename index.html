@@ -24,7 +24,7 @@
 
     <!-- This is a link to a stylesheet which contains rules about how each element on the page should be defined-->
     <!-- Try swapping to example3.css or another, and take a look at each example.css to see if you understand it-->
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="Example3.css">
     <title>My Portfolio</title> <!-- The title displayed in the browser tab, not on the page itself -->
 
     <!-- This is a link to the vega-lite packages which we're using to make graphs -->
@@ -45,7 +45,7 @@
 <!-- The body tag contains the elements that visitors to our page will see. -->
     <h1 class="big" style="margin-bottom: 0px;"> <!-- We have added a class to the header called "big" which we can use to style it in the CSS -->
         <!-- This is a header, it is the largest text on the page -->
-        Finn McEvoy
+        Hannah
     </h1>
     <p style="margin-top: 0px; color: darkblue">
         <!-- we're setting the margin to 0px so the header and authour name are close together -->
@@ -67,13 +67,13 @@
         </div>
 
         <!-- This element will contain our vega-lite chart -->
-        <figure id="chart"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location1"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
 
     </section>
 
     <section>
         <div class="chart-description">
-            <h2>Section 1: A basic chart</h2>
+            <h2>Section 2: Another chart</h2>
             <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
                 We've organised the page into sections, with each section containing a chart, title and a description. Here, we can describe the chart and give some context.
                 As a first example, we're using a basic chart from our repo.
@@ -81,10 +81,9 @@
         </div>
 
         <!-- This element will contain our vega-lite chart -->
-        <figure id="chart2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
+        <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
 
     </section>
-
 
     <!-- Do you want to add more sections? -->
         <!-- Try copying pasting the section above -->
@@ -95,16 +94,17 @@
     <!-- This is a script, it's a way to run JavaScript code on the page -->
     <script>
         // This is a comment in JavaScript - it's a different language to HTML and CSS
-        // THIS IS ANOTHER COMMENT
-        // THIS IS A THIRD COMMENT
 
-        let figure_1_spec = "wk1_chart1.json"; // We're storing the URL of the graph we want to display in a variable
+        let chart = "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/2/s2_chart2.json"; // We're storing the URL of the graph we want to display in a variable
         // You should have a spec for a graph in this same folder. Just specify its name here, e.g. let figure_1_spec = "chart1.json"
 
-        vegaEmbed('#chart', figure_1_spec) // We're using the vegaEmbed function to put a graph in the element with id figure_1
+        vegaEmbed('#Location1', chart) // We're using the vegaEmbed function to put a graph in the element with id figure_1
         
-        let figure_2_spec = "wk1_chart2.json"; // We're storing the URL of the graph we want to display in a variable
-        vegaEmbed('#chart2', figure_2_spec)
+        let chart1 = "https://raw.githubusercontent.com/EconomicsObservatory/datavis/refs/heads/main/newsletters/2025-07-18-the-debt-mountain/visualisation/fig1-g20-debt.json"; // We're storing the URL of the graph we want to display in a variable
+        // You should have a spec for a graph in this same folder. Just specify its name here, e.g. let figure_1_spec = "chart1.json"
+
+        vegaEmbed('#Location2', chart1) // 
+
 
         // Do you want to add more graphs?
         // try defining a new variable for figure_2_spec, adding VegaEmbed for Location2, and adding a new section in the HTML
